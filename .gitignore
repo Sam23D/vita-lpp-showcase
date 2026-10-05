@@ -1,0 +1,7 @@
+.cache/
+.lpp-vita-src
+dist/
+build/
+tools/mock/sandbox/
+__pycache__/
+*.pyc
